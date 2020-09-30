@@ -1,3 +1,2 @@
 # MayLeetCodeChallenge
 Competitive coding
-Noice
